@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "222327263500",
+    "project_id": "quiz-earning-8b642",
+    "storage_bucket": "quiz-earning-8b642.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222327263500:android:c8436a1f57a958f0bc3929",
+        "android_client_info": {
+          "package_name": "com.example.quizearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCe0QiiH7AA-ZLRRT4opvUW29rj3NzY9g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
